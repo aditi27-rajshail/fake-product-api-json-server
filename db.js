@@ -1,7 +1,7 @@
-const tokens = require("./data/tokens");
+const pool = require("./data/pool");
 const assets = require("./data/assets");
 
 module.exports = {
-  tokens,
+  pool,
   assets,
 };

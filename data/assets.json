@@ -1,54 +1,52 @@
-{
-  "assetList": [
-    {
-      "asset_address": "dhwiyfwhiej",
-      "asset_name": "asset1",
-      "asset_type": "Trade Finance",
-      "financing_date": "2025-10-10",
-      "maturity_date": "2025-10-10",
-      "financing_fee": "12",
-      "amount_invested": "123",
-      "currency": "USXD"
-    },
-    {
-      "asset_address": "cewjouni",
-      "asset_name": "asset2",
-      "asset_type": "Trade Finance",
-      "financing_date": "2025-10-10",
-      "maturity_date": "2025-10-10",
-      "financing_fee": "12",
-      "amount_invested": "123",
-      "currency": "USXD"
-    },
-    {
-      "asset_address": "vnweoybiryvb",
-      "asset_name": "asset3",
-      "asset_type": "Trade Finance",
-      "financing_date": "2025-10-10",
-      "maturity_date": "2025-10-10",
-      "financing_fee": "12",
-      "amount_invested": "456",
-      "currency": "USXD"
-    },
-    {
-      "asset_address": "vnweosxsybiryvb",
-      "asset_name": "asset4",
-      "asset_type": "Trade Finance",
-      "financing_date": "2025-10-10",
-      "maturity_date": "2025-10-10",
-      "financing_fee": "12",
-      "amount_invested": "456",
-      "currency": "USXD"
-    },
-    {
-      "asset_address": "vnweosxsybiryvb",
-      "asset_name": "asset5",
-      "asset_type": "Trade Finance",
-      "financing_date": "2025-10-10",
-      "maturity_date": "2025-10-10",
-      "financing_fee": "12",
-      "amount_invested": "456",
-      "currency": "USXD"
-    }
-  ]
-}
+[
+  {
+    "asset_address": "",
+    "asset_name": "Asset1",
+    "asset_type": "Trade Finance",
+    "financing_date": "2025-10-10",
+    "maturity_date": "2025-10-10",
+    "financing_fee": "12",
+    "amount_invested": "1234323",
+    "currency": "USXD"
+  },
+  {
+    "asset_address": "",
+    "asset_name": "Asset2",
+    "asset_type": "Trade Finance",
+    "financing_date": "2025-10-10",
+    "maturity_date": "2026-10-10",
+    "financing_fee": "12",
+    "amount_invested": "2343123",
+    "currency": "USXD"
+  },
+  {
+    "asset_address": "",
+    "asset_name": "Asset3",
+    "asset_type": "Trade Finance",
+    "financing_date": "2025-10-12",
+    "maturity_date": "2022-10-10",
+    "financing_fee": "30",
+    "amount_invested": "4564354",
+    "currency": "USXD"
+  },
+  {
+    "asset_address": "",
+    "asset_name": "Asset4",
+    "asset_type": "Trade Finance",
+    "financing_date": "2025-10-10",
+    "maturity_date": "2025-12-10",
+    "financing_fee": "17",
+    "amount_invested": "234456",
+    "currency": "USXD"
+  },
+  {
+    "asset_address": "",
+    "asset_name": "Asset5",
+    "asset_type": "Trade Finance",
+    "financing_date": "2025-10-10",
+    "maturity_date": "2025-10-10",
+    "financing_fee": "12",
+    "amount_invested": "23434456",
+    "currency": "USXD"
+  }
+]
