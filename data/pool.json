@@ -2,8 +2,8 @@
   "current_supply": "1000",
   "nav": "10",
   "tenure": "18",
-  "issue_size": "123456",
-  "senior_apy": "49.12",
-  "junior_apy": "20.76",
+  "issue_size": "12345689",
+  "senior_apy": "11.13",
+  "junior_apy": "3.38",
   "token_price": "122"
 }
