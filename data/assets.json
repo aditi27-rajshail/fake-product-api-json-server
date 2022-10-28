@@ -48,15 +48,5 @@
     "financing_fee": "12.23",
     "amount_invested": "1000",
     "currency": "USXD"
-  },
-  {
-    "asset_address": "",
-    "asset_name": "Asset6",
-    "asset_type": "Trade Finance",
-    "financing_date": "2022-10-10",
-    "maturity_date": "2023-10-10",
-    "financing_fee": "11.23",
-    "amount_invested": "1000",
-    "currency": "USXD"
   }
 ]
