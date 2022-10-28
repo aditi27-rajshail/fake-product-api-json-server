@@ -6,7 +6,7 @@
     "financing_date": "2022-09-10",
     "maturity_date": "2023-1-10",
     "financing_fee": "12",
-    "amount_invested": "1234323",
+    "amount_invested": "123423",
     "currency": "USXD"
   },
   {
@@ -16,7 +16,7 @@
     "financing_date": "2022-2-10",
     "maturity_date": "2023-1-10",
     "financing_fee": "12",
-    "amount_invested": "2343123",
+    "amount_invested": "234323",
     "currency": "USXD"
   },
   {
@@ -26,7 +26,7 @@
     "financing_date": "2022-2-12",
     "maturity_date": "2023-7-10",
     "financing_fee": "15.10",
-    "amount_invested": "4564354",
+    "amount_invested": "45354",
     "currency": "USXD"
   },
   {
@@ -36,7 +36,7 @@
     "financing_date": "2022-10-10",
     "maturity_date": "2025-12-10",
     "financing_fee": "17.56",
-    "amount_invested": "234456",
+    "amount_invested": "23456",
     "currency": "USXD"
   },
   {
@@ -46,7 +46,7 @@
     "financing_date": "2022-5-10",
     "maturity_date": "2022-10-10",
     "financing_fee": "12.23",
-    "amount_invested": "23434456",
+    "amount_invested": "233456",
     "currency": "USXD"
   },
   {
@@ -56,7 +56,7 @@
     "financing_date": "2022-10-10",
     "maturity_date": "2023-10-10",
     "financing_fee": "11.23",
-    "amount_invested": "234356",
+    "amount_invested": "23356",
     "currency": "USXD"
   }
 ]
