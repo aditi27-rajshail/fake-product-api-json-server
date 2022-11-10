@@ -6,7 +6,7 @@
   "senior_apy": 11.13,
   "junior_apy": 3.38,
   "token_price": 122,
-  "is_active": true,
+  "is_active": false,
   "senior_tranche": 899,
   "junior_tranche": 7829
 }
