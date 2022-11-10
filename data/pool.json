@@ -5,5 +5,6 @@
   "issue_size": 12345689,
   "senior_apy": 11.13,
   "junior_apy": 3.38,
-  "token_price": 122
+  "token_price": 122,
+  "is_active": true
 }
